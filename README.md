@@ -25,7 +25,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 2.Clone the forked repository on your machine
 ```bash
-git clone https://github.com/Your-username/ipl-gallery.git
+git clone https://github.com/iot-lab-kiit/Monster-RoloDex.git
 ```
 
 3.Decide the best suiting sub-category for your component under basic or advanced
