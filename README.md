@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+ <a name="title"></a>
+# MONSTERS ROLODEX
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Monsters Rolodex
 
-## Available Scripts
 
-In the project directory, you can run:
+<a name="about"></a>
+## About The App
+`Monsters Rolodex` is an Open Source project brought to you by `Iot Lab,KIIT` and it brings you easy and optimized visuals for the explanation of the code. 
+It’s a web app that is built using html,css and javascript. Further updates will be available soon.
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## What is Hacktoberfest?
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-### `yarn test`
+[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### ⭐This repository will be open to contribute under hacktoberfest from October 9, 2021
 
-### `yarn build`
+<a name="contribute"></a>
+## Steps To Contribute
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1.Fork the repo on your github profile from the fork button on top right corner.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2.Clone the forked repository on your machine
+```bash
+git clone https://github.com/Your-username/ipl-gallery.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3.Decide the best suiting sub-category for your component under basic or advanced
 
-### `yarn eject`
+4.Go to < > file and add the name and the corresponding icon.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+5.Create the fragment with a demo of the component and the related codes as done in other fragments.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+6.Send us a Pull Request describing about the component you have added.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+`Note -` Adding a component that is already listed in the app with minor changes is not allowed.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<a name="tasks"></a>
+## Choose from these Tasks
+1.Adding new UI components of your choice (which is not already present).
 
-## Learn More
+2.Creating a simple copy button to directly copy the code snippet to your clipboard. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3.Any possible UI updates.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4.Refer to [issues](https://github.com/iot-lab-kiit/Monster-RoloDex/issues) for more tasks.
 
-### Code Splitting
+5.Any other useful updates that comes to your mind.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<a name="about_developers"></a>
+## About IoT Labs,KIIT
+This open-source project has been made by the dedicated team of students under [`IoT Labs,KIIT`](https://iotkiit.in/).
+`IoT Lab at KIIT` is a group of committed students who work under the guidance of a group of capable and supportive teachers who guide us through each phase and stage. 
+`IoT Lab` is a research forum that examines the possibilities of crowdsourcing and the Internet of Things for transdisciplinary research and initiatives that involve 
+greater end-user participation. We currently have a number of successful goods and prototypes. We also provide web development and app development services.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<a name="preview"></a>
+## Website Preview
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<a name="contents"></a>
+## Table of Contents
+- [Monster Rolodex](#title)
+- [About The Website](#about)
+- [About Iot Labs,KIIT](#about_developers)
+- [Website Preview](#preview)
+- [Deployed Version](#play)
+- [Tasks](#tasks)
+- [Steps to Contribute](#contribute)
+- [License](#license)
 
-### Advanced Configuration
+<a name="play"></a>
+## Deployed Version
+https://grsakshi.github.io/monsters-rolodex/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+[Back to Start](#title)
 
-### Deployment
+<a name="license"></a>
+## LICENSE
+T𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚜 𝚞𝚗𝚍𝚎𝚛 [GNU General Public License v3.0 License]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
