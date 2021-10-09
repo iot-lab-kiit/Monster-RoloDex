@@ -60,6 +60,7 @@ greater end-user participation. We currently have a number of successful goods a
 
 <a name="preview"></a>
 ## Website Preview
+![image](https://user-images.githubusercontent.com/73037598/136549088-00ef2b5d-c30d-4732-8d6f-15687c498205.png)
 
 
 <a name="contents"></a>
@@ -75,7 +76,7 @@ greater end-user participation. We currently have a number of successful goods a
 
 <a name="play"></a>
 ## Deployed Version
-https://grsakshi.github.io/monsters-rolodex/
+https://monster-rolodex-iot.herokuapp.com/
 
 [Back to Start](#title)
 
