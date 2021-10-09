@@ -1,6 +1,7 @@
 import React,{ Component } from 'react';
 import { CardList } from './components/card-list/card-list.component';
 import { SearchBox } from "./components/search-box/search-box.component.jsx";
+//import { SortButton } from "./components/sort-option/sort-option.component.jsx";
 import './App.css';
 
 class App extends Component{
@@ -30,7 +31,7 @@ class App extends Component{
     // just like const monsters = this.state.monsters;
     const { monsters, searchField} = this.state; 
     const filteredMonsters = monsters.filter(monster => 
-      monster.name.toLowerCase().includes(searchField.toLowerCase())
+      monster.name.toLowerCase().includes(searchField.toLowerCase())|| monster.email.toLowerCase().includes(searchField.toLowerCase())
     );
     return(
           <div className="App">
