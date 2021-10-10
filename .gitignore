@@ -1,5 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# temporarly ignored
+/src/components/sort-option
 # dependencies
 /node_modules
 /.pnp
