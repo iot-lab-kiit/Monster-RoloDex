@@ -2,8 +2,9 @@
     display: flex;
     flex-direction: column;
     background-color: #95dada;
-    border: 1px solid grey;
-    border-radius: 5px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px #7fb9b9,
+                        -5px -5px 10px #3c5f5f;
     padding: 25px;
     cursor: pointer;
     -moz-osx-font-smoothing: grayscale;
@@ -12,7 +13,19 @@
     transition: transform 0.25s ease-out;
   }
   
-  .card-container:hover {
+  .card-container:hover{
     transform: scale(1.05);
   }
+
+  .card-container:hover img{
+    transform: scale(1.1);
+  }
   
+  .card-container img{
+    background: #95dada;
+    border-radius: 50%;
+    box-shadow: 7px 7px 14px #80bbbb,
+    -7px -7px 14px #aaf9f9;
+    transition: transform 0.25s ease-out;
+
+  }
