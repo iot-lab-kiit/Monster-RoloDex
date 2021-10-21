@@ -30,7 +30,7 @@ git clone https://github.com/iot-lab-kiit/Monster-RoloDex.git
 
 3.Decide the best suiting sub-category for your component under basic or advanced
 
-4.Go to < > file and add the name and the corresponding icon.
+4.Go to respective file and add the name and the corresponding icon.
 
 5.Create the fragment with a demo of the component and the related codes as done in other fragments.
 
@@ -49,6 +49,8 @@ git clone https://github.com/iot-lab-kiit/Monster-RoloDex.git
 4.Refer to [issues](https://github.com/iot-lab-kiit/Monster-RoloDex/issues) for more tasks.
 
 5.Any other useful updates that comes to your mind.
+
+6.Create issues if came across any bugs.
 
 
 <a name="about_developers"></a>
